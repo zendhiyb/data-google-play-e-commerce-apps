@@ -2,6 +2,12 @@
 
 Kumpulan dataset dari lima platform e-commerce yang beroperasi di Indonesia — Tokopedia, Shopee, Lazada, Blibli, dan Bukalapak — yang datanya diambil langsung dari Google Play Store. Dataset ini dapat dimanfaatkan untuk berbagai keperluan seperti analisis data, penelitian akademik, pengembangan machine learning, dan studi pasar digital.
 
+
+> **Catatan :**
+> 
+> Dataset ini masih dalam bentuk **raw data** dan **belum melalui proses preprocessing**. Pengguna diharapkan melakukan pembersihan data sesuai kebutuhan masing-masing.
+
+
 ## Dataset Details
 
 | Platform   | Jumlah Data (±)  | Sumber            | Link                                                                                             |
@@ -13,6 +19,3 @@ Kumpulan dataset dari lima platform e-commerce yang beroperasi di Indonesia — 
 | Bukalapak  | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1RZrtaCYdmk9qKL_btRAuoyUJXaOmzicT?usp=sharing) |
 
 Setiap dataset disimpan di dalam folder Google Drive dan tersedia dalam format CSV.
-
-> **Catatan :**  
-> Dataset ini masih dalam bentuk **raw data** dan **belum melalui proses preprocessing**. Pengguna diharapkan melakukan pembersihan data sesuai kebutuhan masing-masing.
