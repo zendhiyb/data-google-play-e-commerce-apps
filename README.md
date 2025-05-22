@@ -4,13 +4,13 @@ Kumpulan dataset dari lima platform e-commerce yang beroperasi di Indonesia — 
 
 ## Dataset Details
 
-| Platform   | Jumlah Data (±) | Sumber             |
-|------------|------------------|-------------------|
-| Tokopedia  | 100.000+         | Google Play Store |
-| Lazada     | 100.000+         | Google Play Store |
-| Shopee     | 100.000+         | Google Play Store |
-| Blibli     | 100.000+         | Google Play Store |
-| Bukalapak  | 100.000+         | Google Play Store |
+| Platform   | Jumlah Data (±)  | Sumber            | Link                                                                                             |
+|------------|------------------|-------------------|--------------------------------------------------------------------------------------------------|
+| Tokopedia  | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1di_dmJuTenoDe9ilVMOLqZYRTE572xdA?usp=sharing) |
+| Lazada     | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1di_dmJuTenoDe9ilVMOLqZYRTE572xdA?usp=sharing) |
+| Shopee     | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1frUoJprwLyN2A02eHK1n4P1Da2KsVysc?usp=sharing) |
+| Blibli     | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1Pq_SUvGIoNyhVZD77D9Vm6P8x6-Xlol3?usp=sharing) |
+| Bukalapak  | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1RZrtaCYdmk9qKL_btRAuoyUJXaOmzicT?usp=sharing) |
 
 Setiap dataset disimpan di dalam folder Google Drive dan tersedia dalam format CSV.
 
