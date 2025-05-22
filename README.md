@@ -17,4 +17,4 @@ Kumpulan dataset dari lima platform e-commerce yang beroperasi di Indonesia — 
 | Blibli     | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1Pq_SUvGIoNyhVZD77D9Vm6P8x6-Xlol3?usp=sharing) |
 | Bukalapak  | 100.000+         | Google Play Store | [Download](https://drive.google.com/drive/folders/1RZrtaCYdmk9qKL_btRAuoyUJXaOmzicT?usp=sharing) |
 
-Setiap dataset disimpan di dalam folder Google Drive dan tersedia dalam format CSV.
+> Setiap dataset disimpan di dalam folder Google Drive dan tersedia dalam format CSV.
