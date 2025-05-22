@@ -4,7 +4,6 @@ Kumpulan dataset dari lima platform e-commerce yang beroperasi di Indonesia — 
 
 
 > **Catatan :**
-> 
 > Dataset ini masih dalam bentuk **raw data** dan **belum melalui proses preprocessing**. Pengguna diharapkan melakukan pembersihan data sesuai kebutuhan masing-masing.
 
 
